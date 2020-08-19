@@ -8,7 +8,7 @@ An e-Commerce application using Spring Boot, JPA etc
 - A user can login/logout in the system
 
 ### Customer
-- A customer can edit his profile such as, name, image, addresses, password etc.
+- A customer can edit his profile such as, name, image, addresses, pass# E-Commerceword etc.
 - A customer can list all the products which are made available by the sellers
 - A customer can view in-dept detail of a product such as, images, reviews, product-information,  price, seller details etc
 - A customer can add the product either in its cart or in his wish-list or move the product in between the two
@@ -35,4 +35,3 @@ An e-Commerce application using Spring Boot, JPA etc
 - A product can have product-level metadata along with variations-level metedata defined, where variation's metedata takes  priority over product's.
 - A product should have all its variation's primary images displayed when is listed.
 - Product price is by default in INR
-# E-Commerce
